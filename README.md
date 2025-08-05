@@ -2,6 +2,8 @@
 
 A cross-platform delivery app built with React Native and Expo, following the MVVM (Model-View-ViewModel) architectural pattern. The app features product listing, category filtering, and infinite scroll for a seamless user experience.
 
+https://github.com/user-attachments/assets/741147f8-bfd8-4ec7-becb-84895a126f1c
+
 ## Features
 
 - **Product Listing:** Browse products organized by categories.
